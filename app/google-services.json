@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "170935596267",
+    "project_id": "vivegam-1351"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170935596267:android:f9820fe0be030f9f",
+        "android_client_info": {
+          "package_name": "rukina.vivegam.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170935596267-hg02novlmg2suf17hj94aobp8n43fonv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rukina.vivegam.android",
+            "certificate_hash": "D2AE0F6BAEFEA51807F6D71EA81A35B26D1E4421"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLJiCsMIsdshTcPo3Y5PJ5t6hQqMBs59k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
