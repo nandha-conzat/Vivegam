@@ -14,10 +14,10 @@
 
     <!-- Creates a custom permission so only this app can receive its messages. -->
     <permission
-        android:name="rukina.jaycee.android.permission.C2D_MESSAGE"
+        android:name="rukina.vivegam.android.permission.C2D_MESSAGE"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="rukina.jaycee.android.permission.C2D_MESSAGE" />
+    <uses-permission android:name="rukina.vivegam.android.permission.C2D_MESSAGE" />
 
     <!-- This app has permission to register and receive data message. -->
     <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
@@ -78,7 +78,7 @@
             android:permission="com.google.android.c2dm.permission.SEND">
             <intent-filter>
                 <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-                <category android:name="rukina.jaycee.android" />
+                <category android:name="rukina.vivegam.android" />
             </intent-filter>
         </receiver>
 
