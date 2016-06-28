@@ -1,13 +1,13 @@
 <resources>
 
-    <string name="app_name">Vivegam</string>
+    <string name="app_name">Vivekam</string>
+    <string name="school_name">Vivekam Senior Secondary School</string>
     <string name="err_username">Wrong Username</string>
     <string name="err_password">Wrong Password</string>
     <string name="fill_name">Fill the name</string>
     <string name="fill_mobileno">Fill the mobile no</string>
     <string name="fill_username">Fill the username</string>
     <string name="fill_password">Fill the password</string>
-    <string name="school_name">Vivegam</string>
     <string name="error_occured">Failed to connect to the server. Please try again.</string>
     <string name="alert_button_ok">Ok</string>
     <string name="alert_button_cancel">Cancel</string>
